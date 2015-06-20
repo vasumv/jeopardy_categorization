@@ -3,6 +3,7 @@ from nltk.corpus import stopwords
 import numpy as np
 import lda
 import sqlite3
+import json
 
 counts = {}
 conn = sqlite3.connect("clues.db")

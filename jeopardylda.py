@@ -5,7 +5,7 @@ import lda
 import sqlite3
 
 counts = {}
-conn = sqlite3.connect("../jeopardy-parser/clues.db")
+conn = sqlite3.connect("clues.db")
 c = conn.cursor()
 
 c.execute("SELECT clue FROM documents")

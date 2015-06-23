@@ -23,14 +23,14 @@ def qbquery(num):
 def jeoquery(num):
     conn = sqlite3.connect("clues.db")
     c = conn.cursor()
-    c.execute("SELECT clue FROM documents LIMIT %d" % num)
+    c.execute("SELECT clue FROM documents")
     clues = c.fetchall()
     clues = [ci[0].encode('ascii', 'ignore') for ci in clues]
     return clues
 
 vocab = Vocabulary()
 
-clues = jeoquery(50000)
+clues = jeoquery(20000)
 for clue in clues:
     vocab.add_question(clue)
 print vocab.number

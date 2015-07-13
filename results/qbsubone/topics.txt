@@ -1,0 +1,12 @@
+List of Topics 
+
+Topic 0: novel, author, point, work, man, wrote, one, anoth
+Topic 1: charact, play, titl, one, point, work, love, anoth
+Topic 2: author, wrote, anoth, work, novel, one, man, point
+Topic 3: novel, charact, work, titl, point, protagonist, one, narrat
+Topic 4: novel, author, work, point, one, protagonist, man, charact
+Topic 5: film, novel, charact, point, movi, one, man, show
+Topic 6: charact, one, protagonist, work, play, point, end, titl
+Topic 7: novel, protagonist, charact, marri, point, work, one, titl
+Topic 8: stori, author, wrote, anoth, short, point, one, man
+Topic 9: novel, author, work, one, titl, charact, point, wrote

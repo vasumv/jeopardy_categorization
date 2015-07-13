@@ -1,0 +1,12 @@
+List of Subtopics 
+
+Topic 0: minist, day, countri, first, prime, presid, becam, year
+Topic 1: presid, first, hous, clue, said, man, white, report
+Topic 2: countri, war, end, leader, year, treati, nation, soviet
+Topic 3: war, battl, general, armi, british, forc, command, civil
+Topic 4: first, prize, univers, school, found, nobel, colleg, name
+Topic 5: state, law, act, right, constitut, govern, court, congress
+Topic 6: presid, secretari, state, first, justic, chief, court, serv
+Topic 7: man, prison, kill, john, year, citi, die, trial
+Topic 8: presid, senat, elect, state, first, governor, new, serv
+Topic 9: king, countri, ii, queen, england, becam, pope, emperor

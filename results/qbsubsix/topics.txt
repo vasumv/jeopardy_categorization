@@ -1,0 +1,12 @@
+List of Topics 
+
+Topic 0: point, economist, theori, econom, man, work, state, argu
+Topic 1: work, section, book, chapter, one, author, titl, written
+Topic 2: work, philosoph, point, man, author, argu, wrote, philosophi
+Topic 3: work, author, societi, social, point, man, argu, wrote
+Topic 4: concept, theori, one, school, book, identifi, point, type
+Topic 5: point, man, god, includ, religion, one, practic, doctrin
+Topic 6: experi, man, point, psychologist, develop, theori, one, person
+Topic 7: languag, use, word, one, point, form, includ, english
+Topic 8: work, author, essay, philosoph, one, titl, wrote, thinker
+Topic 9: work, cultur, point, author, wrote, studi, book, one

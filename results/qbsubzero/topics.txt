@@ -1,0 +1,12 @@
+List of Topics 
+
+Topic 0: god, one, object, nors, point, kill, deiti, name
+Topic 1: kill, one, man, son, point, king, citi, father
+Topic 2: one, anim, creatur, god, point, form, deiti, hindu
+Topic 3: day, holiday, event, point, celebr, perform, action, call
+Topic 4: religion, point, one, includ, text, call, found, believ
+Topic 5: god, deiti, one, goddess, point, myth, peopl, depict
+Topic 6: charact, work, play, one, king, point, titl, anoth
+Topic 7: god, greek, point, zeus, one, goddess, father, son
+Topic 8: book, man, point, one, prophet, god, king, jesus
+Topic 9: figur, man, son, point, brother, stori, father, kill

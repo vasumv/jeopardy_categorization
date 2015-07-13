@@ -1,0 +1,12 @@
+NAQT List of 10 Topics 
+
+Topic 0: play, team, star, new, whose, home, film, includ
+Topic 1: presid, state, first, led, former, man, senat, parti
+Topic 2: compos, work, paint, known, music, includ, opera, also
+Topic 3: use, form, whose, found, includ, type, cell, organ
+Topic 4: paper, readi, pencil, equal, two, squar, x, one
+Topic 5: war, battl, led, king, rule, world, first, man
+Topic 6: wrote, author, novel, also, work, man, known, book
+Topic 7: citi, capit, river, nation, island, countri, state, lake
+Topic 8: use, atom, law, element, form, mass, whose, two
+Topic 9: wrote, author, novel, titl, play, god, son, kill

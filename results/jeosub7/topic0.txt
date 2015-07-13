@@ -1,0 +1,12 @@
+List of Subtopics 
+
+Topic 0: king, play, tale, queen, titl, shakespear, charact, one
+Topic 1: book, jesus, god, man, king, bibl, son, lord
+Topic 2: opera, compos, music, play, la, ballet, work, wrote
+Topic 3: poem, wrote, poet, line, love, song, one, say
+Topic 4: paint, seen, artist, work, art, centuri, famous, painter
+Topic 5: word, mean, day, latin, one, come, term, greek
+Topic 6: author, wrote, book, novel, publish, work, first, one
+Topic 7: god, greek, roman, one, goddess, ancient, kill, name
+Topic 8: novel, titl, author, stori, book, first, charact, tale
+Topic 9: say, said, one, man, never, go, love, good

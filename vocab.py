@@ -1,6 +1,7 @@
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
+import cPickle as pickle
 import numpy as np
 
 class Vocabulary():
@@ -9,6 +10,25 @@ class Vocabulary():
         self.number_mapping = {}
         self.number = -1
         self.stemmer = SnowballStemmer("english")
+
+    def __getstate__(self):
+        result = self.__dict__.copy()
+        del result['stemmer']
+        return result
+
+    def __setstate__(self, dict):
+        self.__dict__ = dict
+        self.stemmer = SnowballStemmer("english")
+
+    @staticmethod
+    def load(name):
+        with open(name, "rb") as f:
+            vocab = pickle.load(f)
+        return vocab
+
+    def save(self, name):
+        with open(name, "wb") as f:
+            pickle.dump(self, f)
 
     def tokenize(self, clue):
         clue = clue.lower()

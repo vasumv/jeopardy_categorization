@@ -1,0 +1,12 @@
+List of Subtopics 
+
+Topic 0: compos, symphoni, work, point, song, wrote, includ, one
+Topic 1: song, album, one, point, band, record, includ, jazz
+Topic 2: one, compos, work, piec, minor, includ, point, major
+Topic 3: compos, work, piec, piano, point, wrote, includ, one
+Topic 4: compos, work, music, set, point, one, section, includ
+Topic 5: instrument, compos, play, concerto, point, wrote, work, includ
+Topic 6: opera, charact, titl, sing, aria, point, love, act
+Topic 7: opera, charact, compos, titl, one, point, sing, aria
+Topic 8: compos, ballet, work, one, point, danc, includ, titl
+Topic 9: movement, work, first, play, second, theme, featur, section

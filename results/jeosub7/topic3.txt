@@ -1,0 +1,12 @@
+List of Subtopics 
+
+Topic 0: won, oscar, film, best, play, actor, nomin, first
+Topic 1: novel, titl, book, author, charact, wrote, first, play
+Topic 2: film, play, robert, star, movi, jame, titl, john
+Topic 3: song, like, say, said, love, hit, titl, one
+Topic 4: play, film, star, actress, marri, movi, role, william
+Topic 5: hit, song, band, album, group, singer, top, rock
+Topic 6: music, play, star, broadway, film, danc, show, made
+Topic 7: show, tv, seri, play, star, host, sitcom, episod
+Topic 8: charact, film, titl, tv, voic, comic, play, anim
+Topic 9: film, play, novel, titl, star, movi, john, base

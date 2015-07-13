@@ -1,0 +1,12 @@
+List of Subtopics 
+
+Topic 0: experi, theori, point, one, develop, man, psychologist, studi
+Topic 1: work, section, author, book, chapter, one, titl, discuss
+Topic 2: point, god, man, text, book, includ, christian, doctrin
+Topic 3: work, author, point, wrote, societi, titl, anoth, one
+Topic 4: languag, one, use, word, form, point, includ, type
+Topic 5: work, philosoph, concept, point, one, author, argu, philosophi
+Topic 6: work, author, wrote, point, cultur, essay, man, studi
+Topic 7: work, man, point, one, state, argu, govern, claim
+Topic 8: point, theori, econom, economist, argu, state, concept, man
+Topic 9: poem, poet, author, one, wrote, point, anoth, speaker

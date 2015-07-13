@@ -1,0 +1,12 @@
+List of Subtopics 
+
+Topic 0: compani, car, first, introduc, seen, model, design, one
+Topic 1: show, tv, news, magazin, newspap, host, time, new
+Topic 2: olymp, gold, sport, race, event, won, first, win
+Topic 3: team, won, titl, first, nba, sport, player, tenni
+Topic 4: game, one, play, get, card, ball, go, say
+Topic 5: compani, million, stock, one, billion, type, money, servic
+Topic 6: year, day, first, celebr, seen, new, one, time
+Topic 7: team, game, leagu, basebal, home, first, play, bowl
+Topic 8: new, citi, school, york, univers, first, colleg, museum
+Topic 9: first, space, one, clue, crew, flight, man, fli

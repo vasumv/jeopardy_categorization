@@ -1,0 +1,12 @@
+List of Topics 
+
+Topic 0: treati, war, point, end, ruler, one, battl, sign
+Topic 1: citi, island, capit, home, locat, point, largest, includ
+Topic 2: point, man, one, pope, ruler, citi, emperor, defeat
+Topic 3: dynasti, ruler, empir, point, rule, one, capit, battl
+Topic 4: man, point, battl, defeat, war, roman, emperor, led
+Topic 5: king, man, ruler, point, de, son, battl, henri
+Topic 6: river, lake, state, mountain, point, contain, includ, border
+Topic 7: countri, de, nation, point, war, san, american, south
+Topic 8: battl, war, conflict, one, forc, point, side, saw
+Topic 9: countri, nation, capit, point, rule, led, region, war

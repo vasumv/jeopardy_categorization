@@ -1,0 +1,12 @@
+List of Topics 
+
+Topic 0: countri, man, leader, point, nation, presid, led, power
+Topic 1: man, point, posit, offic, compani, held, one, current
+Topic 2: battl, war, point, state, led, one, forc, conflict
+Topic 3: case, court, state, act, point, suprem, law, amend
+Topic 4: group, organ, member, point, one, leader, led, found
+Topic 5: event, one, point, action, saw, led, particip, kill
+Topic 6: team, player, point, game, play, first, current, coach
+Topic 7: man, minist, prime, leader, point, british, parti, lord
+Topic 8: man, presid, state, elect, point, senat, parti, john
+Topic 9: war, treati, point, one, sign, world, polici, negoti

@@ -1,0 +1,12 @@
+NAQT List of 10 Topics 
+
+Topic 0: use, law, name, time, type, namesak, object, forc
+Topic 1: play, star, team, first, whose, includ, show, game
+Topic 2: citi, capit, river, nation, island, south, state, lake
+Topic 3: war, battl, led, man, king, ii, first, rule
+Topic 4: presid, state, first, former, parti, minist, elect, leader
+Topic 5: wrote, author, also, compos, work, known, poem, novel
+Topic 6: use, form, found, whose, element, atom, type, call
+Topic 7: greek, son, god, kill, king, day, titl, name
+Topic 8: paper, readi, pencil, two, squar, equal, x, number
+Topic 9: novel, author, wrote, creat, also, work, paint, known

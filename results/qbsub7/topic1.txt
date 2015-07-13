@@ -1,0 +1,12 @@
+List of Subtopics 
+
+Topic 0: figur, paint, left, right, work, hold, one, hand
+Topic 1: work, sculptur, depict, one, point, sculptor, statu, creat
+Topic 2: design, build, architect, citi, hous, point, structur, one
+Topic 3: work, includ, movement, art, one, member, use, group
+Topic 4: paint, artist, man, depict, one, woman, point, work
+Topic 5: work, paint, depict, man, artist, point, one, show
+Topic 6: paint, man, artist, work, depict, point, titl, painter
+Topic 7: paint, depict, work, artist, one, point, man, angel
+Topic 8: paint, artist, work, depict, one, seri, point, anoth
+Topic 9: artist, work, paint, depict, one, point, anoth, show

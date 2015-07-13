@@ -1,0 +1,9 @@
+NAQT List of 7 Topics
+
+Topic 0: titl, play, charact, novel, war, death, kill, greek
+Topic 1: new, name, paint, includ, discov, group, creat, school
+Topic 2: readi, pencil, paper, equal, x, two, one, squar
+Topic 3: wrote, author, novel, known, work, also, ofth, compos
+Topic 4: presid, first, nation, becam, man, elect, world, king
+Topic 5: use, kind, law, form, name, call, found, element
+Topic 6: citi, capit, island, river, nation, whose, state, sea

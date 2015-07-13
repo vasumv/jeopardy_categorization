@@ -1,0 +1,12 @@
+List of Subtopics 
+
+Topic 0: citi, capit, ancient, found, countri, built, year, known
+Topic 1: island, sea, countri, peninsula, gulf, coast, part, lie
+Topic 2: state, nation, park, flag, name, seen, one, tree
+Topic 3: countri, languag, capit, nation, offici, call, peopl, republ
+Topic 4: island, name, ship, first, explor, san, de, south
+Topic 5: citi, museum, capit, build, built, one, park, hous
+Topic 6: countri, largest, south, mile, world, capit, area, state
+Topic 7: citi, state, new, capit, name, univers, york, counti
+Topic 8: mountain, feet, highest, clue, peak, mount, crew, rang
+Topic 9: river, lake, citi, state, bridg, flow, mile, great

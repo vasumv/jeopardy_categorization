@@ -1,0 +1,12 @@
+List of Topics 
+
+Topic 0: poem, speaker, describ, titl, point, note, begin, claim
+Topic 1: poem, wrote, author, poet, one, anoth, point, titl
+Topic 2: charact, work, titl, narrat, one, point, play, anoth
+Topic 3: poem, poet, author, wrote, one, anoth, collect, point
+Topic 4: work, author, one, point, poem, written, line, languag
+Topic 5: poem, section, point, one, speaker, begin, work, narrat
+Topic 6: poem, titl, poet, describ, point, anoth, speaker, man
+Topic 7: author, man, wrote, work, stori, point, one, book
+Topic 8: song, album, band, singer, one, point, anoth, featur
+Topic 9: author, poem, wrote, collect, one, poet, countri, anoth

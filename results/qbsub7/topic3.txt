@@ -1,0 +1,12 @@
+List of Subtopics 
+
+Topic 0: figur, man, point, son, kill, king, father, wife
+Topic 1: day, holiday, point, event, one, celebr, perform, call
+Topic 2: book, work, charact, one, man, point, play, titl
+Topic 3: one, creatur, anim, point, object, myth, mytholog, peopl
+Topic 4: man, point, roman, battl, emperor, defeat, rome, leader
+Topic 5: god, nors, kill, deiti, son, point, one, figur
+Topic 6: religion, one, point, includ, call, text, known, found
+Topic 7: kill, greek, son, god, point, one, figur, father
+Topic 8: god, deiti, goddess, point, depict, one, figur, form
+Topic 9: citi, battl, ruler, point, one, king, defeat, empir

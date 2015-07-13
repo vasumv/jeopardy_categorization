@@ -1,0 +1,12 @@
+List of Subtopics 
+
+Topic 0: battl, war, conflict, forc, one, point, command, side
+Topic 1: countri, nation, point, de, led, man, war, presid
+Topic 2: point, case, act, state, one, treati, court, law
+Topic 3: dynasti, ruler, empir, point, battl, rule, one, defeat
+Topic 4: king, man, point, ruler, treati, war, battl, one
+Topic 5: event, group, one, point, led, leader, peopl, organ
+Topic 6: citi, river, state, point, home, locat, includ, capit
+Topic 7: man, presid, state, point, elect, john, parti, first
+Topic 8: island, countri, nation, point, capit, region, contain, mountain
+Topic 9: countri, man, point, war, leader, minist, nation, led

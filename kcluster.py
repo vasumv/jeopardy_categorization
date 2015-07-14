@@ -1,4 +1,4 @@
-mport random
+import random
 def euclidean_distance(prefs, vec1, vec2):
     si = {}
     for item in prefs[vec1]:

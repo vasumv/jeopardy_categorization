@@ -1,0 +1,12 @@
+Combined List of 10 Topics 
+
+Topic 0: one, use, point, type, number, form, name, time
+Topic 1: film, play, star, show, song, hit, first, movi
+Topic 2: work, one, point, poem, compos, wrote, man, author
+Topic 3: war, man, point, battl, countri, one, presid, led
+Topic 4: one, type, organ, call, use, cell, caus, point
+Topic 5: one, paint, figur, man, point, work, god, depict
+Topic 6: clue, first, crew, new, citi, year, compani, report
+Topic 7: charact, novel, author, one, titl, work, wrote, point
+Topic 8: citi, countri, state, island, river, capit, nation, south
+Topic 9: mean, word, use, like, make, one, type, come

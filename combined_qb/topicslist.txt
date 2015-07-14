@@ -1,0 +1,12 @@
+Combined List of 10 Topics 
+
+Topic 0: point, use, one, form, process, cell, compound, reaction
+Topic 1: point, man, state, event, one, presid, led, first
+Topic 2: paint, point, work, depict, citi, one, artist, river
+Topic 3: figur, one, god, point, son, kill, man, father
+Topic 4: work, point, one, author, man, book, concept, argu
+Topic 5: battl, point, war, man, one, countri, ruler, king
+Topic 6: poem, one, work, author, point, anoth, wrote, titl
+Topic 7: compos, work, movement, one, opera, point, includ, piec
+Topic 8: one, point, use, quantiti, number, type, equal, name
+Topic 9: charact, novel, author, one, work, point, titl, protagonist

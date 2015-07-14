@@ -1,0 +1,12 @@
+Combined List of 10 Topics 
+
+Topic 0: hit, song, game, first, team, one, play, year
+Topic 1: mean, word, one, use, term, get, latin, like
+Topic 2: novel, book, wrote, titl, man, author, one, say
+Topic 3: presid, first, war, state, year, new, becam, man
+Topic 4: clue, crew, use, one, report, sarah, jimmi, type
+Topic 5: citi, state, countri, island, capit, river, nation, south
+Topic 6: one, type, seen, call, like, bird, anim, use
+Topic 7: film, play, star, show, titl, movi, tv, charact
+Topic 8: use, made, type, make, call, one, like, brand
+Topic 9: king, citi, countri, centuri, seen, first, paint, work

@@ -33,13 +33,15 @@ def jeoquery(num):
 
 argparser = ArgumentParser()
 argparser.add_argument('--qtype', default="jeo")
-argparser.add_argument('--foldername', default="jeodata")
+argparser.add_argument('--foldername', default="combined_both")
 argparser.add_argument('--inputname', default="jeodata")
 argparser.add_argument('--inputname2', default="qbdata")
+argparser.add_argument('--inputname3', default="combined_jeo")
 args = argparser.parse_args()
 inputpath = Path(args.inputname)
 inputpath2 = Path(args.inputname2)
-vocab = Vocabulary()
+inputpath3 = Path(args.inputname3)
+#vocab = Vocabulary()
 
 #if args.qtype == "jeo":
     #clues = jeoquery(20000)
@@ -47,17 +49,20 @@ vocab = Vocabulary()
     #clues = qbquery(20000)
 clues1 = pickle.load(open(inputpath / "clues.pkl", "rb"))
 clues2 = pickle.load(open(inputpath2 / "clues.pkl", "rb"))
-oldclues = clues1 + clues2
-clues = []
-for i in clues1:
-    if i not in clues:
-        clues.append(i)
-for clue in oldclues:
-    vocab.add_question(clue)
+diff = len(clues1) / len(clues2)
+clues2 = clues2 * diff + clues2[:(len(clues1) - len(clues2 * diff))]
+print len(clues1), len(clues2)
+clues = clues1 + clues2
+#clues = []
+#for i in oldclues:
+    #if i not in clues:
+        #clues.append(i)
+#for clue in oldclues:
+    #vocab.add_question(clue)
 path = Path(args.foldername)
 if not path.exists():
     path.mkdir()
-#vocab = Vocabulary.load(inputpath / "vocab.pkl")
+vocab = Vocabulary.load(inputpath3 / "vocab.pkl")
 vocab.save(path / "vocab.pkl")
 print vocab.number
 matrix = lil_matrix((len(clues), vocab.number + 1))

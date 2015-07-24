@@ -1,0 +1,12 @@
+Combined List of 7 Topics 
+
+Topic 0: play, star, team, whose, show, new, film, won
+Topic 1: paper, readi, pencil, equal, squar, two, x, number
+Topic 2: war, battl, led, king, man, rule, world, first
+Topic 3: greek, god, includ, son, kill, father, call, man
+Topic 4: presid, state, first, led, senat, nation, former, elect
+Topic 5: use, form, atom, whose, type, cell, found, element
+Topic 6: compos, use, work, includ, opera, music, name, symphoni
+Topic 7: wrote, author, novel, also, work, paint, known, creat
+Topic 8: novel, wrote, author, titl, play, charact, work, creat
+Topic 9: citi, capit, river, island, nation, countri, state, whose
